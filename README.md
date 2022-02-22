@@ -23,7 +23,7 @@ Hi, I’m Jeongmmin! 👋
 
 <p align="center">
 <a href="https://jeongmmin.github.io/PortfolioSite/" target="_blank"><img src="https://img.shields.io/badge/portflio-AA00FF?style=flat-square&logo=SitePoint&logoColor=white"/></a> &nbsp
-<a href="https://hip-poppyseed-91a.notion.site/3dbfaf6860844d4aad7d4876fbe3a032?v=733914f090c549d8b3f1592cbc60403b" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> &nbsp
+<a href="https://min88.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a> &nbsp
 <a href="mailto:jmindev0808@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
 
 </p>

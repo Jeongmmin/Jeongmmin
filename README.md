@@ -1,11 +1,23 @@
-<h3 align="center">
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:a6c1ee,100:fbc2eb&height=300&section=header&text=Hi,%20I’m%20Jeongmmin!%20👀&animation=twinkling&fontSize=40&fontColor=fff)
+
+<!-- <h3>
 Hi, I’m Jeongmmin! 👋 
-</h3>
+</h3>   -->
+  
+<!-- <h3 align="center">
+<img src="https://user-images.githubusercontent.com/82005305/156407056-b83427e3-3cb9-4918-95fd-704efac27389.gif">
+</h3> -->
 
 </br>
+</br>
 
+<h2>
+  <b>:books: Tech Stack </b>
+</h2>  
 
-<h3 align="center"><b>:books: Tech Stack </b></h3>
+<br/>
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
@@ -18,15 +30,40 @@ Hi, I’m Jeongmmin! 👋
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/> &nbsp </p>
 
 </br>
+</br>
 
-<h3 align="center"><b>:gem: How to reach me :gem:</b></h3>
+<h2>
+  <b>💎 How to reach me </b>
+</h2>
 
-<p align="center">
+
+<br/>
+
+<p>
 <a href="https://jeongmmin.github.io/PortfolioSite/" target="_blank"><img src="https://img.shields.io/badge/Portflio-d4a6ff?style=flat-square&logo=SitePoint&logoColor=white"/></a> &nbsp
 <a href="https://min88.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a> &nbsp
 <a href="mailto:jmindev0808@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
+</p>  
 
-</p>
+</br>
+</br>  
+
+
+<h2>💻 Stats & Langs</h2>
+<br/>
+
+  ![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeongmmin&show_icons=true&theme=buefy)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongmmin&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)  
+  
+  
+![header](https://capsule-render.vercel.app/api?type=Waving&reversal=true&color=0:a6c1ee,100:fbc2eb&height=100&section=footer&text=&animation=twinkling&fontSize=40&fontColor=fff)
+
+
+</br>
+</br>
+   
+</div>
+ 
 
 
 <!---

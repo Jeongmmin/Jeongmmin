@@ -42,7 +42,7 @@ Hi, I’m Jeongmmin! 👋
 <p>
 <a href="https://jeongmmin.github.io/PortfolioSite/" target="_blank"><img src="https://img.shields.io/badge/Portflio-d4a6ff?style=flat-square&logo=SitePoint&logoColor=white"/></a> &nbsp
 <a href="https://min88.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a> &nbsp
-<a href="mailto:jmindev0808@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
+<a href=mailto:jmindev0808@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
 </p>  
 
 </br>
@@ -52,7 +52,9 @@ Hi, I’m Jeongmmin! 👋
 <h2>💻 Stats & Langs</h2>
 <br/>
 
-  ![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeongmmin&show_icons=true&theme=buefy)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongmmin&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)  
+
+
+  ![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeongmmin&show_icons=true&theme=buefy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongmmin&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)  
   
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&reversal=true&color=0:a6c1ee,100:fbc2eb&height=100&section=footer&text=&animation=twinkling&fontSize=40&fontColor=fff)

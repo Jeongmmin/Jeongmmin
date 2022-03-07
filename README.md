@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:a6c1ee,100:fbc2eb&height=300&section=header&text=Hi,%20I’m%20Jeongmmin!%20👀&animation=twinkling&fontSize=40&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:a6c1ee,100:fbc2eb&height=300&section=header&text=Hi,%20I’m%20Jeongmmin!%20🤗&animation=twinkling&fontSize=40&fontColor=fff)
 
 <!-- <h3>
 Hi, I’m Jeongmmin! 👋 
@@ -9,6 +9,11 @@ Hi, I’m Jeongmmin! 👋
 <!-- <h3 align="center">
 <img src="https://user-images.githubusercontent.com/82005305/156407056-b83427e3-3cb9-4918-95fd-704efac27389.gif">
 </h3> -->
+
+</br>
+</br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongmmin%2Fhit-counter&count_bg=%2396C2FF&title_bg=%23293641&icon=&icon_color=%23FFFFFF&title=%F0%9F%91%80+hits+&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </br>
 </br>

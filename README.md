@@ -20,6 +20,10 @@ Hi, I’m Jeongmmin! 👋
 
 <img src="https://user-images.githubusercontent.com/82005305/157708950-136f996e-69ae-42ca-968d-f75de61e3512.gif">
 
+
+</br>
+</br>
+
 <h2>
   <b>:books: Tech Stack </b>
 </h2>  

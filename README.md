@@ -18,6 +18,8 @@ Hi, I’m Jeongmmin! 👋
 </br>
 </br>
 
+<img src="https://user-images.githubusercontent.com/82005305/157708950-136f996e-69ae-42ca-968d-f75de61e3512.gif">
+
 <h2>
   <b>:books: Tech Stack </b>
 </h2>  
@@ -59,7 +61,7 @@ Hi, I’m Jeongmmin! 👋
 
 
 
-  ![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeongmmin&show_icons=true&theme=buefy)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongmmin&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)  
+  ![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeongmmin&show_icons=true&theme=material-palenight&hide_title=true)&#160;&#160;&#160;&#160;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongmmin&layout=compact&theme=material-palenight&hide_title=true&card_width=250)](https://github.com/anuraghazra/github-readme-stats)  
   
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&reversal=true&color=0:a6c1ee,100:fbc2eb&height=100&section=footer&text=&animation=twinkling&fontSize=40&fontColor=fff)

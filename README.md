@@ -65,7 +65,7 @@ Hi, I’m Jeongmmin! 👋
 
 
 
-  ![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeongmmin&show_icons=true&theme=material-palenight&hide_title=true&hide=prs,issues)&#160;&#160;&#160;&#160;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongmmin&layout=compact&theme=material-palenight&hide_title=true&card_width=250&hide=scss,java)](https://github.com/anuraghazra/github-readme-stats)  
+  ![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeongmmin&show_icons=true&theme=material-palenight&hide_title=true&hide=prs)&#160;&#160;&#160;&#160;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongmmin&layout=compact&theme=material-palenight&hide_title=true&card_width=250&hide=java&exclude_repo=PortfolioSite)](https://github.com/anuraghazra/github-readme-stats)  
   
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&reversal=true&color=0:a6c1ee,100:fbc2eb&height=100&section=footer&text=&animation=twinkling&fontSize=40&fontColor=fff)

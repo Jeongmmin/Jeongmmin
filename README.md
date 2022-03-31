@@ -13,7 +13,7 @@ Hi, I’m Jeongmmin! 👋
 </br>
 </br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongmmin%2Fhit-counter&count_bg=%2396C2FF&title_bg=%23293641&icon=&icon_color=%23FFFFFF&title=%F0%9F%91%80+hits+&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongmmin%2Fhit-counter&count_bg=%2396C2FF&title_bg=%23293641&icon=&icon_color=%23FFFFFF&title=%F0%9F%91%80+hits+&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 </br>
 </br>
@@ -66,9 +66,9 @@ Hi, I’m Jeongmmin! 👋
 <br/>
 
 <p>
-<a href="https://jeongmmin.github.io/PortfolioSite/" target="_blank"><img src="https://img.shields.io/badge/Portflio-d4a6ff?style=flat-square&logo=SitePoint&logoColor=white"/></a> &nbsp
-<a href="https://min88.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a> &nbsp
-<a href=mailto:jmindev0808@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
+<a href="https://jeongmmin.github.io/PortfolioSite/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-d4a6ff?style=for-the-badge&logo=SitePoint&logoColor=white"/></a> &nbsp
+<a href="https://min88.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-09B3AF?style=for-the-badge&logo=Storyblok&logoColor=white"/></a> &nbsp
+<a href=mailto:jmindev0808@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a> &nbsp
 </p>  
 
 </br>

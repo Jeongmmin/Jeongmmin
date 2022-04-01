@@ -13,7 +13,7 @@ Hi, I’m Jeongmmin! 👋
 </br>
 </br>
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongmmin%2Fhit-counter&count_bg=%2396C2FF&title_bg=%23293641&icon=&icon_color=%23FFFFFF&title=%F0%9F%91%80+hits+&edge_flat=false)](https://hits.seeyoufarm.com) -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongmmin%2Fhit-counter&count_bg=%2396C2FF&title_bg=%23293641&icon=&icon_color=%23FFFFFF&title=%F0%9F%91%80+hits+&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </br>
 </br>

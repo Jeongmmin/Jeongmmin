@@ -75,7 +75,7 @@ Hi, I’m Jeongmmin! 👋
 </br>
 </br>  
 
-
+<!-- 
 <h2>💻 Stats & Langs</h2>
 <br/>
 
@@ -89,7 +89,7 @@ Hi, I’m Jeongmmin! 👋
 
 </br>
 </br>
-
+ -->
 </div>
  
 

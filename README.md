@@ -67,7 +67,7 @@ Hi, I’m Jeongmmin! 👋
 <br/>
 
 <p>
-<a href="https://jeongmmin.github.io/PortfolioSite/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-d4a6ff?style=flat-square&logo=SitePoint&logoColor=white"/></a> &nbsp
+<!-- <a href="https://jeongmmin.github.io/PortfolioSite/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-d4a6ff?style=flat-square&logo=SitePoint&logoColor=white"/></a> &nbsp -->
 <a href="https://min88.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a> &nbsp
 <a href=mailto:jmindev0808@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
 </p>  
